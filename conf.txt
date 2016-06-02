@@ -1,0 +1,51 @@
+ATTACKER
+
+Type       : Interceptor
+Count      : 0
+Initiative : 3
+Ion        : 0
+Plasma     : 1
+Antimatter : 0
+IonMissile : 0
+PlaMissile : 0
+Hull       : 3
+Computers  : 0
+Shields    : 0
+
+Type       : Cruiser
+Count      : 1
+Initiative : 3
+Ion        : 0
+Plasma     : 0
+Antimatter : 1
+IonMissile : 0
+PlaMissile : 0
+Hull       : 5
+Computers  : 1
+Shields    : 0
+
+Type       : Dreadnought
+Count      : 0
+Initiative : 2
+Ion        : 2
+Plasma     : 0
+Antimatter : 0
+IonMissile : 0
+PlaMissile : 0
+Hull       : 6
+Computers  : 1
+Shields    : 1
+
+DEFENDER
+
+Type       : Alien
+Count      : 1
+Initiative : 0
+Ion        : 4
+Plasma     : 0
+Antimatter : 0
+IonMissile : 0
+PlaMissile : 0
+Hull       : 8
+Computers  : 1
+Shields    : 0
